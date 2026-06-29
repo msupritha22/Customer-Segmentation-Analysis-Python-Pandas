@@ -113,7 +113,6 @@ python customer_segmentation.py
 
 <img width="875" height="622" alt="image" src="https://github.com/user-attachments/assets/5e3551ef-9acb-4c30-82fb-a51f8df3adf3" />
 
-
 ## 👩‍💻 Author
 
 **Supritha** — MBA (Business Analytics) | IFIM Business School, Bengaluru  
